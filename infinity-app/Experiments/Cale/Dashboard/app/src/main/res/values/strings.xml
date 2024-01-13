@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Infinity</string>
+    <string name="profile_button">Profile</string>
+    <string name="friends_button">Friends</string>
+    <string name="private_notes_button">Private Notes and Drawings</string>
+    <string name="welcome_dash">Welcome back, user!</string>
+</resources>

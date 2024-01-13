@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/app_background"
+    tools:context=".friends.FindFriends">
+
+  <EditText
+      android:id="@+id/search_bar"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="40dp"
+      android:drawableLeft="@drawable/ic_search_dblue"
+      app:layout_constraintBottom_toTopOf="@+id/list_pot_friends"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent" />
+
+  <ListView
+      android:id="@+id/list_pot_friends"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_marginTop="120dp"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.0"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      app:layout_constraintVertical_bias="1.0" />
+
+  <TextView
+      android:id="@+id/findfriends_list_title"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Find Friends"
+      android:textColor="@color/medium_blue"
+      android:textSize="24sp"
+      android:textStyle="bold"
+      app:layout_constraintBottom_toTopOf="@+id/search_bar"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent" />
+
+  <ImageButton
+      android:id="@+id/back_ffriends"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginRight="350dp"
+      android:background="@drawable/ic_back_arrow2"
+      app:layout_constraintBottom_toTopOf="@+id/search_bar"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      tools:ignore="SpeakableTextPresentCheck" />
+
+  </androidx.constraintlayout.widget.ConstraintLayout>

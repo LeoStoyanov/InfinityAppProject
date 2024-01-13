@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kiwir/Desktop/Class Resources/COM S 309/Git 309/1_mc_2/Frontend/app/src/main/res/layout/chat_buttons.xml" value="0.18" />
+        <entry key="..\:/Users/kiwir/Desktop/Class Resources/COM S 309/Git 309/1_mc_2/Frontend/app/src/main/res/layout/chat_list_activity.xml" value="0.2" />
+        <entry key="..\:/Users/kiwir/Desktop/Class Resources/COM S 309/Git 309/1_mc_2/Frontend/app/src/main/res/layout/dashboard_activity.xml" value="0.33" />
+        <entry key="..\:/Users/kiwir/Desktop/Class Resources/COM S 309/Git 309/1_mc_2/Frontend/app/src/main/res/layout/guild_chat_fragment.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/kiwir/Desktop/Class Resources/COM S 309/Git 309/1_mc_2/Frontend/app/src/main/res/layout/guild_drawings_list_activity.xml" value="0.1" />
+        <entry key="..\:/Users/kiwir/Desktop/Class Resources/COM S 309/Git 309/1_mc_2/Frontend/app/src/main/res/layout/guild_home_activity.xml" value="0.22" />
+        <entry key="..\:/Users/kiwir/Desktop/Class Resources/COM S 309/Git 309/1_mc_2/Frontend/app/src/main/res/layout/guild_notes_list_activity.xml" value="0.1" />
+        <entry key="..\:/Users/kiwir/Desktop/Class Resources/COM S 309/Git 309/1_mc_2/Frontend/app/src/main/res/layout/new_password_activity.xml" value="0.33" />
+        <entry key="..\:/Users/kiwir/Desktop/Class Resources/COM S 309/Git 309/1_mc_2/Frontend/app/src/main/res/layout/new_pfp_activity.xml" value="0.26927083333333335" />
+        <entry key="..\:/Users/kiwir/Desktop/Class Resources/COM S 309/Git 309/1_mc_2/Frontend/app/src/main/res/layout/private_activity.xml" value="0.33" />
+        <entry key="..\:/Users/kiwir/Desktop/Class Resources/COM S 309/Git 309/1_mc_2/Frontend/app/src/main/res/layout/profile_activity.xml" value="0.33" />
+        <entry key="..\:/Users/kiwir/Desktop/Class Resources/COM S 309/Git 309/1_mc_2/Frontend/app/src/main/res/layout/server_buttons.xml" value="0.1" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/drawable/input_background.xml" value="0.3215" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/drawable/vec_email.xml" value="0.3215" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/drawable/vec_password.xml" value="0.3215" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/drawable/vec_profile.xml" value="0.182" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/activity_change_password.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/activity_find_friends.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/activity_forgot_password.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/activity_friend.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/activity_friends_list.xml" value="0.33" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/activity_list_notes.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/activity_nonfriend.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/activity_note.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/activity_notes_editor.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/activity_notes_list.xml" value="0.25" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/activity_pending_friend.xml" value="0.5" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/activity_pendingfriends_list.xml" value="0.3490566037735849" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/activity_user_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/dashboard_activity.xml" value="0.25" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/friends_activity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/guild_home_activity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/new_password_activity.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/new_pfp_activity.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/private_activity.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/profile_activity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/layout/server_buttons.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/teach/Desktop/coms309_project/1_mc_2/Frontend/app/src/main/res/menu/search_friends.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Documents/frontend_javadocs" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

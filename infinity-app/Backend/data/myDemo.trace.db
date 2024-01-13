@@ -1,0 +1,45 @@
+2022-05-02 13:59:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found; SQL statement:
+select user0_.id as id1_14_, user0_.chats_id as chats_id7_14_, user0_.displayname as displayn2_14_, user0_.email as email3_14_, user0_.imageid as imageid4_14_, user0_.password as password5_14_, user0_.username as username6_14_ from users user0_ [42102-200]
+2022-05-02 14:00:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found; SQL statement:
+select user0_.id as id1_14_, user0_.chats_id as chats_id7_14_, user0_.displayname as displayn2_14_, user0_.email as email3_14_, user0_.imageid as imageid4_14_, user0_.password as password5_14_, user0_.username as username6_14_ from users user0_ [42102-200]
+2022-05-02 14:07:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found; SQL statement:
+select user0_.id as id1_14_, user0_.chats_id as chats_id7_14_, user0_.displayname as displayn2_14_, user0_.email as email3_14_, user0_.imageid as imageid4_14_, user0_.password as password5_14_, user0_.username as username6_14_ from users user0_ [42102-200]
+2022-05-02 14:09:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found; SQL statement:
+select user0_.id as id1_14_, user0_.chats_id as chats_id7_14_, user0_.displayname as displayn2_14_, user0_.email as email3_14_, user0_.imageid as imageid4_14_, user0_.password as password5_14_, user0_.username as username6_14_ from users user0_ [42102-200]
+2022-05-02 16:57:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "GUILDS" not found; SQL statement:
+select guild0_.id as id1_9_0_, guild0_.guildimage as guildima2_9_0_, guild0_.guildname as guildnam3_9_0_, guild0_.invitelink as inviteli4_9_0_ from guilds guild0_ where guild0_.id=? [42102-200]
+2022-05-02 16:57:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "GUILDS" not found; SQL statement:
+select guild0_.id as id1_9_, guild0_.guildimage as guildima2_9_, guild0_.guildname as guildnam3_9_, guild0_.invitelink as inviteli4_9_ from guilds guild0_ [42102-200]
+2022-05-02 16:57:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found; SQL statement:
+select user0_.id as id1_14_0_, user0_.chats_id as chats_id7_14_0_, user0_.displayname as displayn2_14_0_, user0_.email as email3_14_0_, user0_.imageid as imageid4_14_0_, user0_.password as password5_14_0_, user0_.username as username6_14_0_, chatroom1_.id as id1_1_1_, chatroom1_.guild_id as guild_id3_1_1_, chatroom1_.chatname as chatname2_1_1_, guild2_.id as id1_9_2_, guild2_.guildimage as guildima2_9_2_, guild2_.guildname as guildnam3_9_2_, guild2_.invitelink as inviteli4_9_2_ from users user0_ left outer join chatrooms chatroom1_ on user0_.chats_id=chatroom1_.id left outer join guilds guild2_ on chatroom1_.guild_id=guild2_.id where user0_.id=? [42102-200]
+2022-05-02 16:57:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found; SQL statement:
+select user0_.id as id1_14_0_, user0_.chats_id as chats_id7_14_0_, user0_.displayname as displayn2_14_0_, user0_.email as email3_14_0_, user0_.imageid as imageid4_14_0_, user0_.password as password5_14_0_, user0_.username as username6_14_0_, chatroom1_.id as id1_1_1_, chatroom1_.guild_id as guild_id3_1_1_, chatroom1_.chatname as chatname2_1_1_, guild2_.id as id1_9_2_, guild2_.guildimage as guildima2_9_2_, guild2_.guildname as guildnam3_9_2_, guild2_.invitelink as inviteli4_9_2_ from users user0_ left outer join chatrooms chatroom1_ on user0_.chats_id=chatroom1_.id left outer join guilds guild2_ on chatroom1_.guild_id=guild2_.id where user0_.id=? [42102-200]
+2022-05-02 16:57:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "GUILDS" not found; SQL statement:
+select guild0_.id as id1_9_0_, guild0_.guildimage as guildima2_9_0_, guild0_.guildname as guildnam3_9_0_, guild0_.invitelink as inviteli4_9_0_ from guilds guild0_ where guild0_.id=? [42102-200]
+2022-05-02 16:57:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found; SQL statement:
+select user0_.id as id1_14_, user0_.chats_id as chats_id7_14_, user0_.displayname as displayn2_14_, user0_.email as email3_14_, user0_.imageid as imageid4_14_, user0_.password as password5_14_, user0_.username as username6_14_ from users user0_ [42102-200]
+2022-05-02 16:57:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found; SQL statement:
+select user0_.id as id1_14_, user0_.chats_id as chats_id7_14_, user0_.displayname as displayn2_14_, user0_.email as email3_14_, user0_.imageid as imageid4_14_, user0_.password as password5_14_, user0_.username as username6_14_ from users user0_ [42102-200]
+2022-05-02 16:57:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found; SQL statement:
+select user0_.id as id1_14_0_, user0_.chats_id as chats_id7_14_0_, user0_.displayname as displayn2_14_0_, user0_.email as email3_14_0_, user0_.imageid as imageid4_14_0_, user0_.password as password5_14_0_, user0_.username as username6_14_0_, chatroom1_.id as id1_1_1_, chatroom1_.guild_id as guild_id3_1_1_, chatroom1_.chatname as chatname2_1_1_, guild2_.id as id1_9_2_, guild2_.guildimage as guildima2_9_2_, guild2_.guildname as guildnam3_9_2_, guild2_.invitelink as inviteli4_9_2_ from users user0_ left outer join chatrooms chatroom1_ on user0_.chats_id=chatroom1_.id left outer join guilds guild2_ on chatroom1_.guild_id=guild2_.id where user0_.id=? [42102-200]
+2022-05-02 16:57:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found; SQL statement:
+insert into users (id, chats_id, displayname, email, imageid, password, username) values (null, ?, ?, ?, ?, ?, ?) [42102-200]
+2022-05-02 16:57:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found; SQL statement:
+select user0_.id as id1_14_0_, user0_.chats_id as chats_id7_14_0_, user0_.displayname as displayn2_14_0_, user0_.email as email3_14_0_, user0_.imageid as imageid4_14_0_, user0_.password as password5_14_0_, user0_.username as username6_14_0_ from users user0_ where user0_.id=? [42102-200]
+2022-05-02 16:57:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found; SQL statement:
+select user0_.id as id1_14_0_, user0_.chats_id as chats_id7_14_0_, user0_.displayname as displayn2_14_0_, user0_.email as email3_14_0_, user0_.imageid as imageid4_14_0_, user0_.password as password5_14_0_, user0_.username as username6_14_0_, chatroom1_.id as id1_1_1_, chatroom1_.guild_id as guild_id3_1_1_, chatroom1_.chatname as chatname2_1_1_, guild2_.id as id1_9_2_, guild2_.guildimage as guildima2_9_2_, guild2_.guildname as guildnam3_9_2_, guild2_.invitelink as inviteli4_9_2_ from users user0_ left outer join chatrooms chatroom1_ on user0_.chats_id=chatroom1_.id left outer join guilds guild2_ on chatroom1_.guild_id=guild2_.id where user0_.id=? [42102-200]

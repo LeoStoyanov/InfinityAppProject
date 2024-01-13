@@ -1,0 +1,10 @@
+onetomany\Phones\PhoneRepository.class
+onetomany\Phones\PhoneController.class
+onetomany\Users\UserRepository.class
+onetomany\Phones\Phone.class
+onetomany\Laptops\Laptop.class
+onetomany\Users\User.class
+onetomany\Main.class
+onetomany\Laptops\LaptopController.class
+onetomany\Laptops\LaptopRepository.class
+onetomany\Users\UserController.class

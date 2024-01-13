@@ -1,0 +1,6 @@
+1,1,guildname,guildimage,invitelink,drawname,drawing,0,true,null
+1,1,guildname,guildimage,invitelink,drawname,drawing,1,true,null
+1,1,guildname,guildimage,invitelink,drawname,drawing,2,true,null
+1,1,guildname,guildimage,invitelink,drawname,drawing,3,true,null
+1,1,guildname,guildimage,invitelink,drawname,drawing,4,true,null
+1,1,guildname,guildimage,invitelink,drawname,drawing,5,true,null

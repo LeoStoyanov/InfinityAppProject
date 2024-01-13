@@ -1,0 +1,12 @@
+my implementation of friends will look something like this
+First_Userid | Second_Userid
+        1   |   2
+        2   |   5
+        2   |   4
+        1   |   5
+1) If any, what is this kind of relationship
+2) If I were to implement this how would I get the ID of the
+User sending the request...ex Friendship(1,2) {1 and 2 are friends, but 1
+sent the request} and the controller would look something like this
+/user/{THIS USER} 1/addfriend/ {OTHER USER}2
+how do I get the  Id of this user?

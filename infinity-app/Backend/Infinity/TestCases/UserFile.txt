@@ -1,0 +1,9 @@
+1,email,username,password,displayname,imageid,0,true,null
+1,email,username,password,displayname,imageid,1,true,null
+1,email,username,password,displayname,imageid,2,true,null
+1,email,username,password,displayname,imageid,3,true,null
+1,email,username,password,displayname,imageid,4,true,null
+1,email,username,password,displayname,imageid,5,true,null
+1,email,username,password,displayname,imageid,6,true,null
+1,email,username,password,displayname,imageid,7,true,null
+1,email,username,password,displayname,imageid,8,true,null

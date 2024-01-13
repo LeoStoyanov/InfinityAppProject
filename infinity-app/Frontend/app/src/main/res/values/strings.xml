@@ -1,0 +1,15 @@
+<resources>
+    //Dashboard strings
+    <string name="app_name">Infinity</string>
+    <string name="profile_button">Profile</string>
+    <string name="friends_button">Friends</string>
+    <string name="private_notes_button">Private Files</string>
+    <string name="welcome_dash">Welcome, </string>
+    <string name="home_button">Home</string>
+    <string name="loading">Loading...</string>
+    <string name="new_something">New</string>
+    <string name="cancel">Cancel</string>
+    <string name="apply">Apply</string>
+    <string name="first_password">Type Your New Password</string>
+    <string name="second_password">Re-Type Your New Password</string>
+</resources>
